@@ -1,0 +1,4 @@
+pygwalker
+openpyxl
+xlrd
+ipywidgets>=8.0.0
